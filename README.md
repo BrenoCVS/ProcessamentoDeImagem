@@ -10,7 +10,11 @@ Este repositório contém meus estudos e experimentos com **processamento de ima
 
 ## Para testar instale as dependências
 
-> 💡 Requer Python 3.10 ou superior.
+💡 **Requer Python 3.10 ou superior**
+
+Para instalar as dependências:
+
+```bash
 pip install -r requirements.txt
 
-
+```
